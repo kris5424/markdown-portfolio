@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Like* to **get this done** as quick as ***possible***. ###How about this one my frient###. ##*Did this one go over well*##
